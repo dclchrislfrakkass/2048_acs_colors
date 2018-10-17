@@ -1,2 +1,4 @@
-# 2048_acs_colors
-colors on 2048
+# 2048 acs colors !
+
+
+review by Frakkass !
